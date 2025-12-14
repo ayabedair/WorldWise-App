@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "3d4f",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-12-14T19:19:38.068Z",
+      "notes": "",
+      "position": {
+        "lat": "31.49074876475237",
+        "lng": "34.47784423828126"
+      }
+    },
+    {
+      "id": "4359",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-14T20:37:35.194Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.7353515625000004"
+      }
+    },
+    {
+      "id": "1e6e",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-12-14T20:37:47.759Z",
+      "notes": "",
+      "position": {
+        "lat": "30.03105542654023",
+        "lng": "31.311035156250004"
+      }
+    }
+  ]
+}
